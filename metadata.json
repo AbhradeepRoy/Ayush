@@ -1,0 +1,7 @@
+{
+  "name": "AyushAI - Personal Health Coach",
+  "description": "An AI-powered health companion that summarizes your medical history, tracks daily wellness metrics, and provides personalized coaching in multiple Indian languages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
